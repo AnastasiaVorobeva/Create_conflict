@@ -3,4 +3,4 @@ def test_num_1():
 
 
 def test_num_2():
-    assert 8 > 1
+    assert 6 > 1
